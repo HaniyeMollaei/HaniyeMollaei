@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/HaniyeMollaei/HaniyeMollaei/0b1f2130a9adc8d9fb64275ec2bd5c799aaba6d3/header.png "Header")](https://some-url.dev/)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HaniyeMollaei&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaniyeMollaei&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div id="badges">
   <a href="https://www.linkedin.com/in/haniyemollaei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
